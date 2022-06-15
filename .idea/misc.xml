@@ -4,6 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/layout/activity_primario.xml" value="0.1" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/layout/app_bar_primario.xml" value="0.1" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/layout/content_primario.xml" value="0.3625" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/layout/fragment_add_inventario.xml" value="0.3625" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/layout/fragment_inventario.xml" value="0.3625" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/menu/activity_main_drawer.xml" value="0.3625" />
+        <entry key="..\:/Users/dbg-9/AndroidStudioProjects/Inventario/app/src/main/res/menu/primario.xml" value="0.3625" />
       </map>
     </option>
   </component>
